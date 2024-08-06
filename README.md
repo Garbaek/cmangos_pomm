@@ -48,6 +48,8 @@ Ensure your database contains the characters table with the necessary columns (n
 Access the map page via: http://yourdomain.com/map.php
 The map will display online players with their respective faction icons based on their coordinates.
 
+Live Demo Map : https://splashgame.org/custpage/pomm.php 
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
